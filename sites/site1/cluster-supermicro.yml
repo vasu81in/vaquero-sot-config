@@ -15,7 +15,7 @@ interfaces:
       password: ADMIN
 metadata:
   name: sm-node0
-  bootif:  enp9s0
+  bootif:  enp9s1
   network_config:
     - type: physical
       name:  samx1
