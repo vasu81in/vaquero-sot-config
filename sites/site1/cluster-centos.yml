@@ -21,7 +21,7 @@ metadata:
       name:  samx1
       mac_address: 0C:C4:7A:B7:FD:09
       subnets:
-      - address:      172.29.87.67
+      - address:      172.29.87.68
         netmask:  255.255.255.240
         gateway:    172.29.87.65
         type:   static
