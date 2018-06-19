@@ -8,7 +8,7 @@
 #  ref: "test1"
 #  token: d1ee4592e2aaa91fac596b5ff6d5607f16e5eb08
 ---
-name: sm-node0
+name: sm-node1
 interfaces:
   - type: physical
     subnet: harmony-mgmt
@@ -23,7 +23,7 @@ interfaces:
       username: ADMIN
       password: ADMIN
 metadata:
-  name: sm-node0
+  name: sm-node1
   bootif:  enp9s0
   network_config:
     - type: physical
