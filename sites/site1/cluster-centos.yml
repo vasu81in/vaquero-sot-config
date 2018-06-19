@@ -88,5 +88,5 @@ metadata:
         baseurl:  http://172.28.123.140/repo/ubuntu16
     packages: []
 
-workflow: ubuntu
+workflow: centos
 #never_provision: true
