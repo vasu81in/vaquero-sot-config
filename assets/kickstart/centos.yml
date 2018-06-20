@@ -16,6 +16,7 @@ text
 # Skips the display of any GUI during install
 skipx
 
+
 # Used with an HTTP install to specify where the install files are located
 url --url http://128.200.84.11/centos/7/os/x86_64/
 
