@@ -1,6 +1,3 @@
-config:
-  type: local
-  url: ".."
 ---
 name: sm-node0
 interfaces:
