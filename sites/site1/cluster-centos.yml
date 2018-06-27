@@ -1,3 +1,5 @@
+config:
+    Git_sot:   vaquero-sot-prod
 ---
 name: g1-node0
 interfaces:
